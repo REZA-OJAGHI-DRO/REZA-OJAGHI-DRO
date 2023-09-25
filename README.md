@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm REZA OJAGHI</h1>
-<h3 align="center">A passionate frontend developer from IRANIndia</h3>
+<h3 align="center">A passionate frontend developer from IRAN</h3>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-h=15" alt="reza-ojaghi-dro" /> </p>
 

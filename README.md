@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-h=15" alt="reza-ojaghi-dro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reza-ojaghi-dro" alt="reza-ojaghi-dro" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/REZA-OJAGHI-DRO](https://github.com/REZA-OJAGHI-DRO)
 
